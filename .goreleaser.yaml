@@ -6,7 +6,7 @@ homebrew_casks:
     directory: Casks
 
     repository:
-      owner: joel-muller
+      owner: mullerjoel
       name: homebrew-tap
       branch: main
       token: "{{ .Env.HOMEBREW_TAP_GITHUB_TOKEN }}"
