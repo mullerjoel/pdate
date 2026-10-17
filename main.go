@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 	"os"
-	"pdate/internal/dates"
-	"pdate/internal/job"
-	"pdate/internal/parser"
+	"github.com/mullerjoel/pdate/internal/dates"
+	"github.com/mullerjoel/pdate/internal/job"
+	"github.com/mullerjoel/pdate/internal/parser"
 )
 
 func main() {

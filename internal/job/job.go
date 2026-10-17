@@ -2,7 +2,7 @@ package job
 
 import (
 	"errors"
-	"pdate/internal/constants"
+	"github.com/mullerjoel/pdate/internal/constants"
 	"time"
 )
 

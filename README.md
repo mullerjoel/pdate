@@ -6,6 +6,14 @@
 
 ## Installation
 
+### Go
+
+If you have go installed, you can install with it:
+
+```bash
+go install github.com/mullerjoel/pdate@latest
+```
+
 ### Homebrew
 
 If you use Homebrew, you can install the app via the official cask:

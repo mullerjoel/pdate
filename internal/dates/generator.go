@@ -1,8 +1,8 @@
 package dates
 
 import (
-	"pdate/internal/constants"
-	"pdate/internal/job"
+	"github.com/mullerjoel/pdate/internal/constants"
+	"github.com/mullerjoel/pdate/internal/job"
 	"time"
 )
 

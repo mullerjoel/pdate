@@ -2,8 +2,8 @@ package parser
 
 import (
 	"errors"
-	"pdate/internal/constants"
-	"pdate/internal/job"
+	"github.com/mullerjoel/pdate/internal/constants"
+	"github.com/mullerjoel/pdate/internal/job"
 	"time"
 )
 

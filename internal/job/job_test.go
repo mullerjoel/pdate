@@ -1,7 +1,7 @@
 package job
 
 import (
-	"pdate/internal/constants"
+	"github.com/mullerjoel/pdate/internal/constants"
 	"testing"
 	"time"
 )

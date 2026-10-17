@@ -1,7 +1,7 @@
 package dates
 
 import (
-	"pdate/internal/job"
+	"github.com/mullerjoel/pdate/internal/job"
 	"testing"
 	"time"
 )

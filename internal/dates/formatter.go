@@ -2,7 +2,7 @@ package dates
 
 import (
 	"fmt"
-	"pdate/internal/job"
+	"github.com/mullerjoel/pdate/internal/job"
 	"strings"
 	"time"
 )
